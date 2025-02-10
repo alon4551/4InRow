@@ -1,0 +1,15 @@
+C:\Users\alon4\source\repos\FourInRow\FourInRow\bin\Debug\net8.0\FourInRow.exe
+C:\Users\alon4\source\repos\FourInRow\FourInRow\bin\Debug\net8.0\FourInRow.deps.json
+C:\Users\alon4\source\repos\FourInRow\FourInRow\bin\Debug\net8.0\FourInRow.runtimeconfig.json
+C:\Users\alon4\source\repos\FourInRow\FourInRow\bin\Debug\net8.0\FourInRow.dll
+C:\Users\alon4\source\repos\FourInRow\FourInRow\bin\Debug\net8.0\FourInRow.pdb
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.AssemblyInfoInputs.cache
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.AssemblyInfo.cs
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.csproj.CoreCompileInputs.cache
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.dll
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\refint\FourInRow.dll
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.pdb
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.genruntimeconfig.cache
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\ref\FourInRow.dll
+C:\Users\alon4\source\repos\FourInRow\FourInRow\obj\Debug\net8.0\FourInRow.sourcelink.json
